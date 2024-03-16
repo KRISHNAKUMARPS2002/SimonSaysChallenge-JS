@@ -1,7 +1,5 @@
 # Simon Game
 
-![Simon Game Preview](preview/Screenshot%202024-03-16%20172722.png)
-
 A simple Simon game built using HTML, CSS, and JavaScript/jQuery.
 
 ## About
@@ -25,4 +23,4 @@ This Simon game is a classic memory game where players have to remember and repe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SimonGame.git
+   https://github.com/KRISHNAKUMARPS2002/SimonSaysChallenge-JS.git
